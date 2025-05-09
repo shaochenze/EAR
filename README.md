@@ -2,7 +2,7 @@
 
 This is the offical implementation of the paper [Continuous Visual Autoregressive Generation via Score Maximization](https://arxiv.org/abs/) (ICML 2025):
 
-<div align="center"><img src="model.png" width="75%"/></div>
+<div align="center"><img src="model.png" width="90%"/></div>
 
 ## 🔥 Highlights
 
