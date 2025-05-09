@@ -1,6 +1,6 @@
 # Continuous Visual Autoregressive Generation via Score Maximization
 
-This is the offical implementation of the paper [Continuous Visual Autoregressive Generation via Score Maximization](https://arxiv.org/abs/) (ICML 2025):
+The offical implementation of paper [Continuous Visual Autoregressive Generation via Score Maximization](https://arxiv.org/abs/) (ICML 2025).
 
 <div align="center"><img src="model.png" width="90%"/></div>
 
