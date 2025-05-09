@@ -1,10 +1,10 @@
 # Continuous Visual Autoregressive Generation via Score Maximization
 
-The offical implementation of paper [Continuous Visual Autoregressive Generation via Score Maximization](https://arxiv.org/abs/) (ICML 2025).
+Code for ICML 2025 paper [Continuous Visual Autoregressive Generation via Score Maximization](https://arxiv.org/abs/).
 
 <div align="center"><img src="model.png" width="90%"/></div>
 
-## 🔥 Highlights
+### 🔥 Highlights
 
 - 💡 **A principled framework for continuous VAR, theoretically grounded in [strictly proper scoring rules](https://sites.stat.washington.edu/raftery/Research/PDF/Gneiting2007jasa.pdf).**
 - 🚀 **Likelihood-free learning with energy Transformer, supported by [energy score](https://eric-bunch.github.io/static/Szekely_estats.pdf$0).**
