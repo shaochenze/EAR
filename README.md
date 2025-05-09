@@ -99,4 +99,11 @@ If you find the resources in this repository useful, please cite as:
   journal={arXiv preprint arXiv:},
   year={2025}
 }
+@inproceedings{shao2025ear,
+  author = {Shao, Chenze and Meng, Fandong and Zhou, Jie},
+  title = {Continuous Visual Autoregressive Generation via Score Maximization},
+  booktitle = {Proceedings of the 42th International Conference on Machine Learning, {ICML} 2025},
+  year = {2025}
+}
+
 ```
