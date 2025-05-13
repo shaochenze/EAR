@@ -7,7 +7,7 @@ Code for ICML 2025 paper [Continuous Visual Autoregressive Generation via Score 
 ### 🔥 Highlights
 
 - 💡 **A principled framework for continuous VAR, theoretically grounded in [strictly proper scoring rules](https://sites.stat.washington.edu/raftery/Research/PDF/Gneiting2007jasa.pdf).**
-- 🚀 **Likelihood-free learning with energy Transformer, supported by [energy score](https://eric-bunch.github.io/static/Szekely_estats.pdf$0).**
+- 🚀 **Likelihood-free learning with energy Transformer, supported by [energy score](https://eric-bunch.github.io/static/Szekely_estats.pdf).**
 - 💪 **Experssive and efficient, overcoming key limitations of [GIVT](https://arxiv.org/abs/2312.02116) and [diffusion loss](https://arxiv.org/abs/2406.11838).**
 - 🎉 **Competitive performance in both generation quality and inference efficiency.**
 
