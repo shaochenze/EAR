@@ -1,6 +1,6 @@
 # Continuous Visual Autoregressive Generation via Score Maximization
 
-Code for ICML 2025 paper [Continuous Visual Autoregressive Generation via Score Maximization](https://arxiv.org/abs/).
+Code for ICML 2025 paper [Continuous Visual Autoregressive Generation via Score Maximization](https://arxiv.org/pdf/2505.07812).
 
 <div align="center"><img src="model.png" width="90%"/></div>
 
